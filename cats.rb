@@ -22,4 +22,4 @@ end
 
 tiger = Cats.new("very", "kinda", "super duper")
 
-puts "is the #{tiger} cute?"
+puts "is the #{tiger.is_it_cute?} cute?"
