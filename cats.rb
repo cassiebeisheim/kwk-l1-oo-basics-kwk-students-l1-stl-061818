@@ -21,3 +21,5 @@ class Cats
 end
 
 tiger = Cats.new("very", "kinda", "super duper")
+
+puts "is the #{tiger} cute?"
