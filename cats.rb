@@ -22,8 +22,8 @@ end
 
 tiger = Cats.new("very", "kinda", "super duper")
 
-puts "is the tiger cute? #{tiger.is_it_cute?}"
+# puts "is the tiger cute? #{tiger.is_it_cute?}"
 
 garfield = Cats.new("has a bit of an attitude", "yes", "kinda")
 
-puts "is garfield cute? #{garfield.is_it_cute?}"
+# puts "is garfield cute? #{garfield.is_it_cute?}"
