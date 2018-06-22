@@ -1,3 +1,3 @@
-class Shake Weight All Stars
+class Shake_Weight
   
   def initialize 
