@@ -39,3 +39,9 @@ class Shake_Weight
   
   puts "what's cassie's favorite color? #{cassie.fav_color}"
   
+  puts "what's sonali's birth month? #{sonali.birth_month}"
+  
+  puts "where does isabella live? #{isabella.residing_city}"
+  
+  puts "where does alyssa live? #{alyssa.residing_city}"
+  
