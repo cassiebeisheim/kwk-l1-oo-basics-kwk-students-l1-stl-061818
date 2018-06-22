@@ -33,4 +33,4 @@ class Shake_Weight
   
   alyssa = Shake_Weight.new("pink", "June", "Barnhart")
   
-  puts "what's cassie's favorite color? #{cassie."
+  puts "what's cassie's favorite color? #{cassie.fav_color}"
