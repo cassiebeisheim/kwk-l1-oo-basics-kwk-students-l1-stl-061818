@@ -7,12 +7,7 @@ class Shake_Weight
     
   end
   
-  def basic_facts
-    puts "She has wavy hair"
-    puts "She also is a girl"
-    puts "She is a teenager"
-    puts "She has weird tanlines"
-  end 
+  
     
     def fav_color
       @color 
@@ -26,6 +21,12 @@ class Shake_Weight
       @city
     end
     
+    def basic_facts
+    puts "She has wavy hair"
+    puts "She also is a girl"
+    puts "She is a teenager"
+    puts "She has weird tanlines"
+  end 
   end
   
   cassie = Shake_Weight.new("red", "February", "ladue")
