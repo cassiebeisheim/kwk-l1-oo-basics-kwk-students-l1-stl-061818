@@ -6,11 +6,7 @@ class Cats
     @mean = mean
   end 
   
-  def basic_fact
-    puts "this cat is an obligatory carnivore"
-    puts "and it has 30 teeth"
-    puts "it has curved claws"
-  end
+ 
   
   def is_it_cute?
     @cute
@@ -22,6 +18,12 @@ class Cats
   
   def is_it_mean?
     @mean
+  end
+  
+   def basic_fact
+    puts "this cat is an obligatory carnivore"
+    puts "and it has 30 teeth"
+    puts "it has curved claws"
   end
   
 end
