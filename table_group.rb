@@ -4,12 +4,16 @@ class Shake_Weight
     @color = color
     @month = month
     @city = city
+    
+  end
   
   def basic_facts
     puts "She has wavy hair"
     puts "She also is a girl"
     puts "She is a teenager"
     puts "She has weird tanlines"
+    
+  end 
     
     def fav_color
       @color 
@@ -34,3 +38,4 @@ class Shake_Weight
   alyssa = Shake_Weight.new("pink", "June", "Barnhart")
   
   puts "what's cassie's favorite color? #{cassie.fav_color}"
+  
