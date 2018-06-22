@@ -25,4 +25,4 @@ class Shake_Weight
     
   end
   
-  cassie.new()
+  cassie = Shake_Weight.new()
