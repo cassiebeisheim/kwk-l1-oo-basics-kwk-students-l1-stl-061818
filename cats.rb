@@ -35,4 +35,4 @@ garfield = Cats.new("has a bit of an attitude", "yes", "kinda")
 
 puts "is tiger mean? #{tiger.is_it_mean?}"
 
-puts "what are some basic facts about tiger? #{basic_fact}"
+puts "what are some basic facts about tiger? #{tiger.basic_fact}"
