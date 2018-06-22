@@ -12,7 +12,6 @@ class Shake_Weight
     puts "She also is a girl"
     puts "She is a teenager"
     puts "She has weird tanlines"
-    
   end 
     
     def fav_color
@@ -44,4 +43,3 @@ class Shake_Weight
   puts "where does isabella live? #{isabella.residing_city}"
   
   puts"what are basic facts about alyssa? #{alyssa.basic_facts}""
-  
