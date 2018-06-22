@@ -43,4 +43,4 @@ class Shake_Weight
   
   puts "where does isabella live? #{isabella.residing_city}"
   
-  puts"what are basic facts about alyssa? #{alyssa.basic_facts}""
+  puts"what are basic facts about alyssa? #{alyssa.basic_facts}"
