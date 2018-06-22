@@ -25,4 +25,12 @@ class Shake_Weight
     
   end
   
-  cassie = Shake_Weight.new()
+  cassie = Shake_Weight.new("red", "February", "ladue")
+  
+  sonali = Shake_Weight.new("teal", "September", "Creve Cour")
+  
+  isabella = Shake_Weight.new("green", "May", "Ballwin")
+  
+  alyssa = Shake_Weight.new("pink", "June", "Barnhart")
+  
+  puts "what's cassie's favorite color? #{cassie."
